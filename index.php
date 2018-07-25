@@ -2,14 +2,9 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>ex2</title>
   </head>
   <body>
-    <?php
-    $lastName = "Demba";
-    $firstName = "Sylla";
-    $age = 23;
-    echo $lastName, $firstName, $age;
-      ?>
+    <p><?php $lastName = "Demba";  $firstName = "Sylla"; $age = 23; echo $lastName, $firstName, $age; ?></p>
   </body>
 </html>
